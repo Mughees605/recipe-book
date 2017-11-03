@@ -2,14 +2,14 @@
 
 ```
 
-> git clone https://github.com/jwill9999/recipe-app.git
+> git clone https://github.com/Mughees605/recipe-book.git
 > cd recipe-app
 > npm install
 > ng serve
 
 To Log In to example project 
 
-> User :      admin@admin.com
+> User :      a@a.com
 > password:   123456
 ```
 
