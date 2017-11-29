@@ -11,8 +11,6 @@ before_install:
   - cd functions
   - npm install
   - cd ..
-script:
-  - npm test
 after_success:
   - npm run build
   - firebase use default --token $FIREBASE_TOKEN
